@@ -1,2 +1,10 @@
-
-/* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
+h1 {
+  color:pink
+}
+img {width: 500px;
+margin-left: 300px;
+margin-right: 300px;
+}
+.rotateimg {
+  transform: rotate(90deg);
+}
